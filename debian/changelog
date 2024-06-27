@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+lua-nginx-cookie (0.1.0-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Thu, 07 Jan 2021 15:29:04 +0100
+
+lua-nginx-cookie (0.1.0-1) unstable; urgency=low
+
+  * Initial release. Closes: #805443
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Wed, 18 Nov 2015 17:22:17 +0800

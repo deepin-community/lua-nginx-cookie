@@ -1,0 +1,2 @@
+version=3
+https://github.com/cloudflare/lua-resty-cookie/releases .*/v([\d\.]*)\.tar.gz
